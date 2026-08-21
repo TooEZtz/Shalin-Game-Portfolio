@@ -2,7 +2,7 @@
 
 A single-page portfolio for my game development work, built with plain HTML, CSS and JavaScript. No frameworks, no build step. Open `index.html` and it runs.
 
-**Live site:** (https://tooeztz.github.io/Shalin-Game-Portfolio/)
+**Live site:** (https://shalin-game-portfolio.vercel.app/)
 
 ## What's in it
 
