@@ -1,0 +1,11 @@
+# Uncompressed source videos, kept locally only.
+# The web-sized versions are what ship in Unreal/ and Javascript/.
+_originals/
+_compressed/
+
+# OS / editor cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
